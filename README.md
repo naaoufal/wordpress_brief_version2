@@ -1,9 +1,13 @@
-# wordpress_brief_version2
+# this is an example of an ecommerce website using wordpress :
 
-Go luanch phpmyadmin then create a database for your wordpress project with this request : 
+in this example you will learn how to create an ecommerce website using flatsome theme and others feature.
 
-CREATE DATABASE ecommerce_2;
+# for installation :
 
-then start your wordpress project step by step
 
-for the admin config you can use as username : "admin" and password "admin"
+- download the zip folder.
+- extract your folder in htdoc or any enviroment workspace.
+- launch phpmyadmin and create database called ecommerce_2.
+- then launch your url localhost : localhost/ecommerce_2
+- follow the normal installation for your project by adding a username :"admin", and password :"admin".
+- then you will access to your web site
